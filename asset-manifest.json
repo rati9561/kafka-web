@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kafka-web/static/css/main.e6c13ad2.css",
+    "main.js": "/kafka-web/static/js/main.f890697b.js",
+    "index.html": "/kafka-web/index.html",
+    "main.e6c13ad2.css.map": "/kafka-web/static/css/main.e6c13ad2.css.map",
+    "main.f890697b.js.map": "/kafka-web/static/js/main.f890697b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f890697b.js"
+  ]
+}
